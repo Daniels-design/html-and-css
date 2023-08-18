@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+
+body {
+    background-color: rgb(204, 173, 204);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-indent: 10px;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+h1#principal{
+    text-align: center;
+}
+
+h2 {
+    color: cadetblue;
+}
+.basico {
+    color: rgba(0, 94, 0, 0.549);
+}
+.intermediario {
+    color: rgba(187, 187, 0, 0.727);
+}
+.avancado {
+    color: rgba(159, 1, 1, 0.549);
+}
